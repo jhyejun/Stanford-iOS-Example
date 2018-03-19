@@ -17,6 +17,7 @@
 
 /* Begin PBXFileReference section */
 		CB2EBC4E2058DF38002FBBD1 /* CaculatorBrain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CaculatorBrain.swift; sourceTree = "<group>"; };
+		CB2EBC52205FE3EE002FBBD1 /* SwiftBasicGrammar.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = SwiftBasicGrammar.md; sourceTree = "<group>"; };
 		CB7D387920495EC6008EF738 /* Stanford-iOS-Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Stanford-iOS-Example.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CB7D387C20495EC6008EF738 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CB7D387E20495EC6008EF738 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -60,6 +61,7 @@
 				CB7D387E20495EC6008EF738 /* ViewController.swift */,
 				CB2EBC4E2058DF38002FBBD1 /* CaculatorBrain.swift */,
 				CB7D388020495EC6008EF738 /* Main.storyboard */,
+				CB2EBC52205FE3EE002FBBD1 /* SwiftBasicGrammar.md */,
 				CB7D388320495EC6008EF738 /* Assets.xcassets */,
 				CB7D388520495EC6008EF738 /* LaunchScreen.storyboard */,
 				CB7D388820495EC6008EF738 /* Info.plist */,
